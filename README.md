@@ -13,7 +13,7 @@
 -  Flutter DevTool.
 -  Dart Observatory.
 
-## Widget.
+## Flutter Widgets.
 Whenever you are going to code for building anything in Flutter, it will be inside a widget.
 
 ### Types of Widget
@@ -45,3 +45,5 @@ Ex. Text, Row, Column, Container, etc.
 - Stack(overlapping)<br>
 - Scaffold(This widget provides a framework that allows you to add common material design elements like AppBar, Floating Action Buttons, Drawers, etc.
 )<br>
+
+# Flutter Layouts
