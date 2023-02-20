@@ -47,3 +47,11 @@ Ex. Text, Row, Column, Container, etc.
 )<br>
 
 # Flutter Layouts
+
+#### steps to create a Layout.<br>
+Step 1: First, you need to select a Layout widget.<br>
+Step 2: Next, create a visible widget.<br>
+Step 3: Then, add the visible widget to the layout widget.<br>
+Step 4: Finally, add the layout widget to the page where you want to display.<br>
+
+
