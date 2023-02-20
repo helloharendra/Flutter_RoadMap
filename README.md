@@ -18,6 +18,19 @@ Whenever you are going to code for building anything in Flutter, it will be insi
 
 ### Types of Widget
 
+#### In Flutter, there are mainly two types of widget:
+
+- StatelessWidget<br><br>
+
+It remains static throughout its lifecycle.<br>
+Ex. Text, Row, Column, Container, etc.
+
+- StatefulWidget<br>
+
+ It is dynamic because it can change the inner data during the widget lifetime.<br>
+ This widget does not have a build() method. It has createState() method,<br>
+ Ex. Checkbox, Radio, Slider, InkWell, Form, and TextField.
+
 ### 1.Visible (Output and Input)<br>
 - Text<br>
 - FlatButton<br>
