@@ -68,6 +68,43 @@ It contains more than one child widget inside the parent widget with unique Layo
 Ex. Row,Column,ListView,GridView,Expanded,Table,Flow,Stack.)<br> 
  ### Material Design:<br>
 Open-source design system designed by google designers and developers.Help developers to build High Quality, Faster, rich user interface design.<br>
+Material Design:
+Open - source design system designed by google designers and developers.Help developers to build High Quality, Faster, rich user interface design.
+MaterialApp (required for applications implementing Material Design).
+Scaffold (This class provides APIs for showing drawers, snack bars, and bottom sheets.)
+SliverAppBar (integrates with a CustomScrollView.)
+AppBar
+BottomNavigationBar
+ElevatedButton
+FloatingActionButton
+IconButton
+Checkbox
+Radio
+Slider
+Switch
+TextField
+AlertDialog
+Icon
+ListTile
+Drawer (A Material Design panel that slides in horizontally from the edge of a Scaffold to show navigation links in an application).
+Cupertino Design:
+If we want to design any specific app, For standard an IOS device, Then Prefer Cupertino Design.
+Also we can run cupertino apps on android but some fonts don’t support it on android.
+Cupertino (IOS-Style) Design:
+
+CupertinoActionSheet
+CupertinoActivityIndicator
+CupertinoAlertDialog
+CupertinoButton
+CupertinoContextMenu
+CupertinoDatePicker
+CupertinoDialogAction
+CupertinoNavigationBar(Top Navigation Bar)
+CupertinoTabBar (Bottom Tab Bar)
+
+
+
+
 
 
 
