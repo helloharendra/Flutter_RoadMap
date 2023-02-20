@@ -18,7 +18,7 @@ Whenever you are going to code for building anything in Flutter, it will be insi
 
 ### Types of Widget
 
-1.Visible (Output and Input)
+1.Visible (Output and Input)<br>
 Text
 FlatButton
 RaisedButton
