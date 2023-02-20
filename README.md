@@ -63,8 +63,13 @@ Step 4: Finally, add the layout widget to the page where you want to display.<br
 - Baseline
 - ConstrainedBox
 - CustomSingleChildLayout
-### 2. Multi child Layout:(It contains more than one child widget inside the parent widget with unique Layouts.
+### 2. Multi child Layout:<br>
+It contains more than one child widget inside the parent widget with unique Layouts.
 Ex. Row,Column,ListView,GridView,Expanded,Table,Flow,Stack.)<br> 
- 
+ ### Material Design:<br>
+Open-source design system designed by google designers and developers.Help developers to build High Quality, Faster, rich user interface design.<br>
+
+
+
 
 
