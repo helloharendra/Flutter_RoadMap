@@ -54,7 +54,15 @@ Step 2: Next, create a visible widget.<br>
 Step 3: Then, add the visible widget to the layout widget.<br>
 Step 4: Finally, add the layout widget to the page where you want to display.<br>
 ### Single Child Widget ( it can save our time and makes the app code more readable.)<br>
-- 
+- Container
+- Padding
+- Center
+- Align
+- SizedBox
+- AspectRatio
+- Baseline
+- ConstrainedBox
+- CustomSingleChildLayout
 ### only one child widget inside the parent layout widget. 
 
 
