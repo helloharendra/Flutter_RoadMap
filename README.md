@@ -1,17 +1,17 @@
 # Flutter_RoadMap
 
-- 1. Widget.
-- 2. Layout.
-- 3. Material Design.
-- 4. Cupertino Design.
-- 5. State Management.
-- 6. Typography.
-- 7. Image and Asset.
-- 8. Forms and Input.
-- 9. Error Handling.
-- 10. Debugging Technique.
-- 11. Flutter DevTool.
-- 12. Dart Observatory.
+-  Widget.
+-  Layout.
+-  Material Design.
+-  Cupertino Design.
+-  State Management.
+-  Typography.
+-  Image and Asset.
+-  Forms and Input.
+-  Error Handling.
+-  Debugging Technique.
+-  Flutter DevTool.
+-  Dart Observatory.
 
 ## Widget.
 Whenever you are going to code for building anything in Flutter, it will be inside a widget.
