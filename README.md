@@ -46,8 +46,8 @@ Ex. Text, Row, Column, Container, etc.
 - Scaffold(This widget provides a framework that allows you to add common material design elements like AppBar, Floating Action Buttons, Drawers, etc.
 )<br>
 
-# Flutter Layouts
-
+# Flutter Layouts <br>
+layout models are widgets.
 #### steps to create a Layout.<br>
 Step 1: First, you need to select a Layout widget.<br>
 Step 2: Next, create a visible widget.<br>
