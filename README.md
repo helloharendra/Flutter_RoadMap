@@ -53,7 +53,7 @@ Step 1: First, you need to select a Layout widget.<br>
 Step 2: Next, create a visible widget.<br>
 Step 3: Then, add the visible widget to the layout widget.<br>
 Step 4: Finally, add the layout widget to the page where you want to display.<br>
-### Single Child Widget ( it can save our time and makes the app code more readable.)<br>
+### Single Child Widget (only one child widget inside the parent layout widget, it can save our time and makes the app code more readable.)<br>
 - Container
 - Padding
 - Center
@@ -63,6 +63,8 @@ Step 4: Finally, add the layout widget to the page where you want to display.<br
 - Baseline
 - ConstrainedBox
 - CustomSingleChildLayout
-### only one child widget inside the parent layout widget. 
+### 2. Multi child Layout:(It contains more than one child widget inside the parent widget with unique Layouts.
+Ex. Row,Column,ListView,GridView,Expanded,Table,Flow,Stack.)<br> 
+ 
 
 
