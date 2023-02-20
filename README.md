@@ -14,7 +14,7 @@
 -  Dart Observatory.
 
 # Flutter Widgets.
-Whenever you are going to code for building anything in Flutter, it will be inside a widget.
+/ Whenever you are going to code for building anything in Flutter, it will be inside a widget. /
 
 ### Types of Widget
 
