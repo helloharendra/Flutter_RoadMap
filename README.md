@@ -53,5 +53,7 @@ Step 1: First, you need to select a Layout widget.<br>
 Step 2: Next, create a visible widget.<br>
 Step 3: Then, add the visible widget to the layout widget.<br>
 Step 4: Finally, add the layout widget to the page where you want to display.<br>
+- Single Child Widget <br>
+- only one child widget inside the parent layout widget. 
 
 
