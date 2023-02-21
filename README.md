@@ -1,4 +1,4 @@
-# Flutter_RoadMap
+# Flutter RoadMap
 
 -  Widget.
 -  Layout.
@@ -13,7 +13,6 @@
 -  Flutter DevTool.
 -  Dart Observatory.
 
-# Flutter Road Map <br>
 ## Flutter Widgets.<br>
 Whenever we are going to code for building anything in Flutter, it will be inside a widget.<br>
 
